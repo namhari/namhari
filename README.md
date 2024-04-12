@@ -4,7 +4,7 @@
 
 # Hey there!Welcome,I'm HariKrishnaD! 👋🌟
 
-👋 Hey there! Welcome to my git-hub profile! I'm HariKrishnaD, and I'm thrilled to have you here! 🎉 Let's dive into the amazing journey together! 💫
+👋 Hey there! Welcome to my git-hub profile! I'm Hari Krishna, and I'm thrilled to have you here! 🎉 Let's dive into the amazing journey together! 💫
 
 
 🚀 Highly motivated and dedicated software developer with a passion for problem-solving and a strong foundation in coding. Experienced in building dynamic web applications and seeking opportunities to contribute innovative solutions and grow in a dynamic software development environment.
