@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# Hey there!Welcome,I'm HariKrishnaD! 👋🌟
+# Hey there!Welcome,I'm HariKrishna D! 👋🌟
 
 👋 Hey there! Welcome to my git-hub profile! I'm Hari Krishna, and I'm thrilled to have you here! 🎉 Let's dive into the amazing journey together! 💫
 
