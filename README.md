@@ -2,7 +2,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<hr/>
 # Hey there!Welcome,I'm HariKrishnaD! 👋🌟
 
 👋 Hey there! Welcome to my git-hub profile! I'm HariKrishnaD, and I'm thrilled to have you here! 🎉 Let's dive into the amazing journey together! 💫
@@ -13,7 +12,7 @@
 📧 **Contact:** +916305572727 | 📧 **Email:** namhari1926@gmail.com
 
 🔗 **Resume:** [View Resume](https://drive.google.com/file/d/1W9zR9ZgJjJFWOvBVidyYrxPr6W-c9qeW/view?usp=sharing)  
-🔗 **LinkedIn:** [Connect on LinkedIn](www.linkedin.com/in/harikrishnad)  
+
 🔗 **Portfolio:** [Explore Portfolio](https://harikrishnaprtf.ccbp.tech/)
 
 **Skills:**
