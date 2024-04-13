@@ -22,12 +22,20 @@
 🗃️ Databases: MySQL  
 
 **Certifications:**
+
+- *Build Your Own Responsive Website* - NxtWave 
+- *Responsive Web Design using Flexbox* - NxtWave 
+- *Build Your Own Dynamic Web Application* - NxtWave 
+- *XPM 4.0 Fundamentals* - NxtWave 
 - *Build Your Own Static Website* - NxtWave  
 - *Python* - GUVI  
 - *Introduction to Databases* - NxtWave  
+- *JavaScript Essentials* - NxtWave  
 - *React JS - Getting started* - NxtWave  
-- *Modern HTML & CSS* - GUVI  
+- *Modern HTML & CSS* - GUVI
+- *React JS - Getting started* - NxtWave   
 - *AI For India 2.0* - GUVI  
+- *Programming Foundations* - NxtWave  
 
 
 
